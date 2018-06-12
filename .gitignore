@@ -1,0 +1,9 @@
+node_modules/
+.DS*
+TAGS
+dist
+cabal-dev
+*.pyc
+build/
+*.egg-info
+.idea
